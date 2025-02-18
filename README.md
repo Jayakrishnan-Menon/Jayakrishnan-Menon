@@ -15,8 +15,9 @@
 </pre>
 </p>
 
+
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&layout=compact&theme=outrun&show_icons=true&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&layout=pie&theme=outrun&show_icons=true&hide_border=true">
 </p>
 
 
