@@ -10,7 +10,7 @@
 >> I'm an Engineering Student at VIT Chennai, Pursuing Electronics and Communication Engineering.
 >> I’m interested in working with Embedded systems, specifically, Microcontroller based Applications.
 >> I’m currently learning how to work with STM32 Nucleo boards.
->> I'm also a Linux enthusiast, I do most of my work on Debian and have help a few people to start with their Linux journey
+>> I'm also a Linux enthusiast, I do most of my work on Debian and have helped a few people to start with their Linux journey
 >> You can reach out to me through my mail: jkmenon18@gmail.com.
 >> Pronouns: He/Him/His
 </pre>
