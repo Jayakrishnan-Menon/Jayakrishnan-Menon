@@ -10,13 +10,14 @@
 >> I'm an Engineering Student at VIT Chennai, Pursuing Electronics and Communication Engineering.
 >> I’m interested in working with Embedded systems, specifically, Microcontroller based Applications.
 >> I’m currently learning how to work with STM32 Nucleo boards.
+>> I'm also a Linux enthusiast, I do most of my work on Debian and have help a few people to start with their Linux journey
 >> You can reach out to me through my mail: jkmenon18@gmail.com.
 >> Pronouns: He/Him/His
 </pre>
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=pie&show_icons=true&hide_border=true&timestamp=1759620624">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=pie&show_icons=true&hide_border=true&timestamp=1767161478">
 </p>
 
 
