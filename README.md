@@ -17,6 +17,10 @@
 </p>
 
 <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=compact&hide_border=true">
+</p>
+
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=pie&show_icons=true&hide_border=true&timestamp=1767161616">
 </p>
 
