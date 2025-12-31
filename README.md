@@ -17,24 +17,9 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats-api.vercel.app/api/top-langs?username=Jayakrishnan-Menon&theme=outrun&layout=compact">
+<img align="center" src="https://github-readme-stats-api.vercel.app/api/top-langs?username=Jayakrishnan-Menon&theme=outrun&layout=compact&timestamp=1767162009">
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayakrishnan-Menon&theme=outrun&layout=compact&hide_border=true">
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=compact&hide_border=true">
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishnan-Menon&theme=outrun&layout=pie&show_icons=true&hide_border=true&timestamp=1767161616">
-</p>
-
-
-
-<!---
 Jayakrishnan-Menon/Jayakrishnan-Menon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
